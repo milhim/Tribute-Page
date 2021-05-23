@@ -12,8 +12,7 @@ body{
 }
 .main-p{
     text-align: center;
-     max-width: 100%;
-    font-size: 16px;
+
 }
 #img-div{
     background-color: #ffffff;
@@ -27,8 +26,7 @@ body{
 }
 #img-div p{
     padding-bottom: 1%;
-     max-width: 100%;
-    font-size: 16px;
+
 }
 #tribute-info{
     width: 40%;
