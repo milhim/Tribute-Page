@@ -20,6 +20,8 @@ body{
 #image{
     max-width: 100%;
     height: auto;
+    display:block;
+    margin:auto;
 }
 #img-div p{
     padding-bottom: 1%;
