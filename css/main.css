@@ -17,6 +17,8 @@ body{
 #img-div{
     background-color: #ffffff;
     text-align: center;
+    width: 97%;
+    margin: auto;
 }
 #image{
     max-width: 100%;
@@ -51,6 +53,8 @@ span{
     font-weight: bold;
     text-align: center;
     margin-top: 3%;
+    font-size: 18px;
+    padding-bottom: 2%;
 }
 .link a{
     color: #74638F;
