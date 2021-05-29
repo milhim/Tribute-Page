@@ -17,6 +17,8 @@ body{
 #img-div{
     background-color: #ffffff;
     text-align: center;
+    width: 97%;
+    margin: auto;
 }
 #image{
     max-width: 100%;
@@ -50,9 +52,21 @@ span{
 .link{
     font-weight: bold;
     text-align: center;
+    font-size: 18px;
+    padding-bottom: 2%;
     margin-top: 3%;
+    
 }
 .link a{
     color: #74638F;
     
 }
+@media (max-width:600px) {
+    #tribute-info{
+        width: 75%;
+    }
+    #tribute-info ul li p{
+        font-size: 20px;
+    }
+    
+} 
