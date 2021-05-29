@@ -64,10 +64,14 @@ span{
 }
 @media (max-width:600px) {
     #tribute-info{
-        width: 75%;
+        width: 70%;
     }
     #tribute-info ul li p{
         font-size: 20px;
+    }
+    #img-div p{
+        padding-bottom: 8%;
+    
     }
     
 } 
